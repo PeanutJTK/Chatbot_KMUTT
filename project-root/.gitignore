@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# dotenv environment variables file
+src/.env
+
+# Performance data file
+src/performance_data.json
+
+# Optional OS-specific files
+.DS_Store
+Thumbs.db
